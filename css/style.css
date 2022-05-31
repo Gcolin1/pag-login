@@ -44,14 +44,14 @@ section{
 form{
     display: flex;
     flex-direction: column;
-    width: clamp(350px, 50%, 380px);
+   
     margin: 0 15%;
 }
 
 input{
     margin: 10px 0;
     height: 40px;
-    background: linear-gradient(to bottom right,#9e4cfc67, #ad3df757, #4c69f852, #3254fd59);
+    background: linear-gradient(to bottom right,#9e4cfc67, #ad3df757, #4c69f881, #3254fd8e);
     font-size: 1.1em;
     color: #f2f2f2;
     font-weight: 500;
